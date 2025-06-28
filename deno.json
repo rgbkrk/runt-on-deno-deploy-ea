@@ -5,6 +5,7 @@
   },
   "imports": {
     "@runt/pyodide-runtime-agent": "jsr:@runt/pyodide-runtime-agent@^0.4.2",
+    "@runt/pyodide-runtime-agent/pyodide-worker": "jsr:@runt/pyodide-runtime-agent@^0.4.2/src/pyodide-worker.ts",
     "@std/assert": "jsr:@std/assert@1"
   }
 }
